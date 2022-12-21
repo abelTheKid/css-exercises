@@ -1,0 +1,5 @@
+.elsőgomb,
+.másodikgomb {font-size: 28px; font-family: Helvetica, Times New Roman, sans-serif;}
+
+.elsőgomb {background-color: black; color:white}
+.másodikgomb {background-color: yellow;}
