@@ -24,3 +24,31 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*SOLUTION*/
+
+body {
+text-align: center;
+}
+
+.title {
+margin-bottom: 32px;
+
+}
+
+.main {
+border: 5px solid purple;
+display: flex;
+justify-content: center;
+gap: 52px
+;
+
+}
+
+.info {
+  border: 3px solid green;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 200px;
+
+}
